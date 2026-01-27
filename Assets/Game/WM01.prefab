@@ -207,7 +207,7 @@ MonoBehaviour:
   warnIfNoPlayer: 1
   retryFindInterval: 1
   expOrbPrefab: {fileID: 4532016775329829461, guid: e54d61a7e9a23bf479c28e2c41c802ad, type: 3}
-  totalExpOnDeath: 1
+  totalExpOnDeath: 10
   orbCount: 1
   scatterRadius: 0.6
   scatterUp: 0.2
